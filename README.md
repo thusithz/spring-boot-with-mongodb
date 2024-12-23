@@ -73,7 +73,7 @@ You can set environment variables to configure the application:
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/thusithz/spring-boot-with-mongodb.git
-cd your-repo-name
+cd spring-boot-with-mongodb
 ```
 
 ### 2. **Build the Application**
